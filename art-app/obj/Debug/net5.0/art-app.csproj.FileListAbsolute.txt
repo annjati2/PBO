@@ -1,0 +1,16 @@
+E:\Mata Kuliah\Smt 2\Pemrograman Berorientasi Objek\art-app\obj\Debug\net5.0\art-app.csprojAssemblyReference.cache
+E:\Mata Kuliah\Smt 2\Pemrograman Berorientasi Objek\art-app\obj\Debug\net5.0\art-app.GeneratedMSBuildEditorConfig.editorconfig
+E:\Mata Kuliah\Smt 2\Pemrograman Berorientasi Objek\art-app\obj\Debug\net5.0\art-app.AssemblyInfoInputs.cache
+E:\Mata Kuliah\Smt 2\Pemrograman Berorientasi Objek\art-app\obj\Debug\net5.0\art-app.AssemblyInfo.cs
+E:\Mata Kuliah\Smt 2\Pemrograman Berorientasi Objek\art-app\obj\Debug\net5.0\art-app.csproj.CoreCompileInputs.cache
+E:\Mata Kuliah\Smt 2\Pemrograman Berorientasi Objek\art-app\bin\Debug\net5.0\art-app.exe
+E:\Mata Kuliah\Smt 2\Pemrograman Berorientasi Objek\art-app\bin\Debug\net5.0\art-app.deps.json
+E:\Mata Kuliah\Smt 2\Pemrograman Berorientasi Objek\art-app\bin\Debug\net5.0\art-app.runtimeconfig.json
+E:\Mata Kuliah\Smt 2\Pemrograman Berorientasi Objek\art-app\bin\Debug\net5.0\art-app.runtimeconfig.dev.json
+E:\Mata Kuliah\Smt 2\Pemrograman Berorientasi Objek\art-app\bin\Debug\net5.0\art-app.dll
+E:\Mata Kuliah\Smt 2\Pemrograman Berorientasi Objek\art-app\bin\Debug\net5.0\ref\art-app.dll
+E:\Mata Kuliah\Smt 2\Pemrograman Berorientasi Objek\art-app\bin\Debug\net5.0\art-app.pdb
+E:\Mata Kuliah\Smt 2\Pemrograman Berorientasi Objek\art-app\obj\Debug\net5.0\art-app.dll
+E:\Mata Kuliah\Smt 2\Pemrograman Berorientasi Objek\art-app\obj\Debug\net5.0\ref\art-app.dll
+E:\Mata Kuliah\Smt 2\Pemrograman Berorientasi Objek\art-app\obj\Debug\net5.0\art-app.pdb
+E:\Mata Kuliah\Smt 2\Pemrograman Berorientasi Objek\art-app\obj\Debug\net5.0\art-app.genruntimeconfig.cache
